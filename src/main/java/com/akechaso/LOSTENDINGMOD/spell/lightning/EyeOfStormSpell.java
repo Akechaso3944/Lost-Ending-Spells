@@ -71,7 +71,7 @@ public class EyeOfStormSpell extends AbstractSpell {
 
     @Override
     public AnimationHolder getCastStartAnimation() {
-        return SpellAnimations.SLASH_ANIMATION ;
+        return LESpellAnimations.ANIMATION_CHARGE_GUN ;
     }
 
     @Override
