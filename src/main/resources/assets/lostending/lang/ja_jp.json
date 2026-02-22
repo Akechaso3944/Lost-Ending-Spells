@@ -1,0 +1,28 @@
+{
+  "creativetab.lostendingmod" : "LostEndingMOD",
+
+  "item.lostending.wooden_scythe": "木のサイス",
+  "item.lostending.stone_scythe": "石のサイス",
+  "item.lostending.iron_scythe": "鉄のサイス",
+  "item.lostending.golden_scythe": "金のサイス",
+  "item.lostending.diamond_scythe": "ダイヤモンドのサイス",
+  "item.lostending.netherite_scythe": "ネザライトのサイス",
+  "item.lostending.blood_crystal": "血のクリスタル",
+  "item.lostending.lightning_crystal": "雷のクリスタル",
+
+  "spell.lostending.life_drain": "ライフドレイン",
+  "spell.lostending.test_heal": "テストヒール",
+  "spell.lostending.eyeofstorm": "台風の目",
+
+  "entity.lostending.culticmancer": "狂信術師",
+  "item.lostending.culticmancer_spawn_egg": "狂信術師のスポーンエッグ",
+  "entity.lostending.electromancer": "雷鳴術師",
+  "item.lostending.electromancer_spawn_egg": "雷鳴術師のスポーンエッグ",
+
+  "advancements.lostending.main.title": "LostEndingMod",
+  "advancements.lostending.main.description": "探しに行こう、見えなかった真実の先をーー",
+  "advancements.lostending.root.title": "駆け出しリーパー",
+  "advancements.lostending.root.description": "木のサイスを手に入れる",
+  "advancements.lostending.netherite_scythe.title": "死神への道",
+  "advancements.lostending.netherite_scythe.description": "ネザライトのサイスを手に入れる"
+}

@@ -1,0 +1,31 @@
+{
+  "parent": "lostending:first",
+  "display": {
+    "icon": {
+      "item": "lostending:wooden_scythe"
+    },
+    "title": {
+      "translate": "advancements.lostending.root.title"
+    },
+    "description": {
+      "translate": "advancements.lostending.root.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "get_wooden_scythe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "lostending:wooden_scythe"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

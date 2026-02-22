@@ -1,0 +1,30 @@
+{
+  "creativetab.lostendingmod": "LostEndingMOD",
+
+  "item.lostending.wooden_scythe": "Wooden Scythe",
+  "item.lostending.stone_scythe": "Stone Scythe",
+  "item.lostending.iron_scythe": "Iron Scythe",
+  "item.lostending.golden_scythe": "Golden Scythe",
+  "item.lostending.diamond_scythe": "Diamond Scythe",
+  "item.lostending.netherite_scythe": "Netherite Scythe",
+
+  "item.lostending.blood_crystal": "Blood Crystal",
+  "item.lostending.lightning_crystal": "Lightning Crystal",
+
+  "spell.lostending.life_drain": "Life Drain",
+  "spell.lostending.test_heal": "Test Heal",
+  "spell.lostending.eyeofstorm": "Eye Of Storm",
+
+  "entity.lostending.culticmancer": "Culticmancer",
+  "item.lostending.culticmancer_spawn_egg": "Culticmancer Spawn Egg",
+
+  "entity.lostending.electromancer": "Electromancer",
+  "item.lostending.electromancer_spawn_egg": "Electromancer Spawn Egg",
+
+  "advancements.lostending.main.title": "LostEndingMod",
+  "advancements.lostending.main.description": "Let's go search,beyond the unseen truth.",
+  "advancements.lostending.root.title": "Rookie Reaper",
+  "advancements.lostending.root.description": "Get a wooden scythe",
+  "advancements.lostending.netherite_scythe.title": "The Road to the Grim Reaper",
+  "advancements.lostending.netherite_scythe.description": "Get a Netherite Scythe"
+}

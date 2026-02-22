@@ -1,0 +1,6 @@
+{
+  "parent": "lostending:item/charm",
+  "textures": {
+    "layer0": "lostending:item/lightning_crystal"
+  }
+}

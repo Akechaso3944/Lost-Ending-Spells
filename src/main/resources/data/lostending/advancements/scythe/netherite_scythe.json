@@ -1,0 +1,34 @@
+{
+  "parent": "lostending:scythe/root",
+  "display": {
+    "icon": {
+      "item": "lostending:netherite_scythe"
+    },
+    "title": {
+      "translate": "advancements.lostending.netherite_scythe.title"
+    },
+    "description": {
+      "translate": "advancements.lostending.netherite_scythe.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "get_netherite_scythe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "lostending:netherite_scythe"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  }
+}
